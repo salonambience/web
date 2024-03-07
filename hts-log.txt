@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Mar 2024 13:05:36 at https://portal.dilshanranwadana.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://portal.dilshanranwadana.com/ -O1 "D:\Files\New folder\Bridal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:05:57	Error: 	"Forbidden" (403) at link https://portal.dilshanranwadana.com/xmlrpc.php?rsd (from https://portal.dilshanranwadana.com/)
+13:05:57	Error: 	"Not Found" (404) at link https://portal.dilshanranwadana.com/wp-content/uploads/2024/02/divider.png (from https://portal.dilshanranwadana.com/)
+13:05:57	Warning: 	Link https://portal.dilshanranwadana.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 64 links scanned, 61 files written (3837309 bytes overall) [2015291 bytes received at 95966 bytes/sec], 2388588 bytes transferred using HTTP compression in 49 files, ratio 17%, 16.2 requests per connection
+(2 errors, 1 warnings, 0 messages)
